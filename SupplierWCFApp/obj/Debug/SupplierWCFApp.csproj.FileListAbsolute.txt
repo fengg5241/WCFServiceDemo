@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\WCFSupplierWebApp\SupplierWCFApp\bin\SupplierWCFApp.dll.config
+C:\Users\admin\source\repos\WCFSupplierWebApp\SupplierWCFApp\bin\SupplierWCFApp.dll
+C:\Users\admin\source\repos\WCFSupplierWebApp\SupplierWCFApp\bin\SupplierWCFApp.pdb
+C:\Users\admin\source\repos\WCFSupplierWebApp\SupplierWCFApp\obj\Debug\SupplierWCFApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WCFSupplierWebApp\SupplierWCFApp\obj\Debug\SupplierWCFApp.dll
+C:\Users\admin\source\repos\WCFSupplierWebApp\SupplierWCFApp\obj\Debug\SupplierWCFApp.pdb
